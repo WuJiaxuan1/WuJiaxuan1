@@ -1,6 +1,7 @@
 # AI 售后客服系统
 
 在小米 AI Native 工程师训练营中完成的团队原型。项目提供用户端与人工客服工作台，连接自动咨询、知识检索、业务判断和真实人工接管。
+[查看项目代码](https://github.com/WuJiaxuan1/ai-after-sales-support)
 
 ## 我的贡献
 
