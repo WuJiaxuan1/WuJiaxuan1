@@ -8,7 +8,7 @@
 
 | 项目 | 解决的问题 | 技术与设计 | 我的工作 |
 | --- | --- | --- | --- |
-| [AI 大学生职业规划智能体](docs/career-planning-agent.md) | 将简历画像、岗位匹配、职业路径和咨询串联起来 | FastAPI · Vue 3 · GraphRAG · Agent · 规则匹配 | 独立开发；功能与实现见项目页 |
+| [大学生职业规划智能体 · Career Pathfinder](docs/career-planning-agent.md) | 将简历画像、岗位匹配、职业路径和咨询串联起来 | FastAPI · Vue 3 · GraphRAG · Agent · 规则匹配 | 独立开发；功能与实现见项目页 |
 | [AI 售后客服系统](docs/ai-after-sales-support.md) | 让 AI 处理普通咨询，在风险、权限或能力边界处交接人工 | FastAPI · Vue 3 · 轻量 RAG · 确定性 Workflow · Human Handoff | 产品与 AI 流程设计、后续逻辑重构、端到端验证和最终问题修复 |
 
 ## 我关注的工程问题
