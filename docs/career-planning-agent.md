@@ -6,7 +6,7 @@
 
 **我的角色：独立开发。** 项目围绕学生画像、岗位匹配、检索增强咨询和报告生成构建职业规划应用。
 
-[查看现有公开代码](https://github.com/Sanyuewu/career-planning-agent)
+[查看项目代码](https://github.com/WuJiaxuan1/career-pathfinder)
 
 ## 功能与实现
 
