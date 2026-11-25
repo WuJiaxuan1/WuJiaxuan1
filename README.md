@@ -29,7 +29,7 @@ AI 语音接入和 StopWatch 随身设备。项目涵盖软件服务、设备集
 结合知识检索与确定性业务流程组织售后服务，在风险、权限或能力边界处
 转交人工。我负责产品与 AI 流程设计、后续逻辑重构、端到端验证和问题修复。
 
-[查看项目源码 →](https://github.com/WuJiaxuan1/ai-after-sales-support)
+[查看项目 →](https://github.com/WuJiaxuan1/ai-after-sales-support)
 
 ### 🧭 Career Pathfinder｜职业规划智能体
 
@@ -38,4 +38,4 @@ AI 语音接入和 StopWatch 随身设备。项目涵盖软件服务、设备集
 独立开发的职业规划应用，结合 GraphRAG、Agent 工作流与规则匹配，
 组织职业信息与咨询流程，完成前后端应用实现。
 
-[查看项目源码 →](https://github.com/WuJiaxuan1/career-pathfinder)
+[查看项目 →](https://github.com/WuJiaxuan1/career-pathfinder)
